@@ -1,0 +1,6 @@
+# Archivos que Git no debe versionar
+*.log
+*.tmp
+.DS_Store
+node_modules/
+__pycache__/
