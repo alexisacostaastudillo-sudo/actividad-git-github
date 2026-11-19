@@ -3,8 +3,9 @@
 Repositorio de la actividad grupal sobre los conceptos básicos de Git y GitHub.
 
 ## Integrantes
-- Anderson
-- (agrega aquí a los demás integrantes del equipo)
+- Anderson Acosta 
+- Cristhoper Zambrano
+- Luis Balarezo 
 
 ## Objetivo
 Comprender y aplicar los conceptos básicos del control de versiones para gestionar
